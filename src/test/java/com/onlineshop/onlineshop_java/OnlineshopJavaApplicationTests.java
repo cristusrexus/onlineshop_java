@@ -8,6 +8,8 @@ class OnlineshopJavaApplicationTests {
 
     @Test
     void contextLoads() {
+        // This test method is intentionally empty.
+        // It verifies that the application context loads successfully.
     }
 
 }
